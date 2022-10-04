@@ -1,0 +1,15 @@
+E:\2019312130130\MyGIS\MyGIS\bin\Debug\MyGIS.exe
+E:\2019312130130\MyGIS\MyGIS\bin\Debug\MyGIS.pdb
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms.AttributeQueryForm.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.MainForm.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms.SpatialQueryForm.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Properties.Resources.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.csproj.GenerateResource.Cache
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.exe
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.pdb
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms.BufferForm.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms.OverlayForm.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms._3DSceneForm.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms.ResultForm.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.csprojResolveAssemblyReference.cache
+E:\2019312130130\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms.EditForm.resources

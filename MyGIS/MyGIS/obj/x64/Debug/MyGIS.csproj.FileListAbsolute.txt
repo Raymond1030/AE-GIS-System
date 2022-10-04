@@ -1,0 +1,9 @@
+E:\2019312130130\MyGIS\MyGIS\bin\x64\Debug\MyGIS.exe
+E:\2019312130130\MyGIS\MyGIS\bin\x64\Debug\MyGIS.pdb
+E:\2019312130130\MyGIS\MyGIS\obj\x64\Debug\MyGIS.Forms.AttributeQueryForm.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x64\Debug\MyGIS.MainForm.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x64\Debug\MyGIS.Forms.SpatialQueryForm.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x64\Debug\MyGIS.Properties.Resources.resources
+E:\2019312130130\MyGIS\MyGIS\obj\x64\Debug\MyGIS.csproj.GenerateResource.Cache
+E:\2019312130130\MyGIS\MyGIS\obj\x64\Debug\MyGIS.exe
+E:\2019312130130\MyGIS\MyGIS\obj\x64\Debug\MyGIS.pdb
